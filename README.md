@@ -7,7 +7,7 @@
 ### Alunos
 * [Gabriel Augusto]
 * [Jaine Conceição](https://github.com/jainec)
-* [Matheus Santos]
+* [Matheus Santos](https://github.com/matheusfsa)
 * [Raul Andrade](https://github.com/andraderaul)
 
 ### Definição do problema
